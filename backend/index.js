@@ -13,14 +13,16 @@ import blogRouter from "./routes/blogRoute.js";
 import careerRouter from "./routes/careerRoute.js";
 import contactRouter from "./routes/contactRoute.js";
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Load environment variables
+dotenv.config({ path: path.join(__dirname, ".env") });
 dotenv.config();
 
 console.log("Starting application...");
 console.log("MONGO_URI:", process.env.MONGO_URI ? "Loaded" : "Missing");
 console.log("JWT_SECRET:", process.env.JWT_SECRET ? "Loaded" : "Missing");
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 const app = express();
 
