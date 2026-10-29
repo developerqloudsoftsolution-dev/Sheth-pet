@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
 import { Mail, Phone, MapPin } from 'lucide-react'
-import { FaYoutube,FaWhatsapp,FaInstagram  } from "react-icons/fa";
+import { FaYoutube, FaWhatsapp, FaInstagram } from "react-icons/fa";
 import { CiLinkedin } from "react-icons/ci";
 
 const Footer = () => {
@@ -23,7 +23,7 @@ const Footer = () => {
   }
 
   const socialLinks = [
-    { icon: FaWhatsapp , href: 'https://wa.me/919867000311', label: 'WhatsApp' },
+    { icon: FaWhatsapp, href: 'https://wa.me/919867000311', label: 'WhatsApp' },
     { icon: FaYoutube, href: 'https://www.youtube.com/@shethpet', label: 'YouTube' },
     { icon: FaInstagram, href: '#', label: 'Instagram' },
     { icon: CiLinkedin, href: '#', label: 'LinkedIn' },
@@ -42,7 +42,6 @@ const Footer = () => {
     { name: 'Pharmaceuticals', href: '/pharmaceutical' },
     { name: 'Home Care', href: '/home-care' },
     { name: 'Industrial', href: '/industrial' },
-
   ]
 
   return (
@@ -185,7 +184,7 @@ const Footer = () => {
 
         {/* Bottom Tier Copyright Meta */}
         <motion.div 
-          className="pt-4 border-t border-slate-900/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-center sm:text-left"
+          className="pt-4 border-t border-slate-900/80 flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left"
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
@@ -194,6 +193,19 @@ const Footer = () => {
           <p className="text-slate-500 text-[13px] font-sans">
             &copy; {new Date().getFullYear()} Sheth PET & Polymers. All rights reserved.
           </p>
+
+          <p className="text-slate-500 text-[13px] font-sans">
+            Designed &amp; Maintained by{' '}
+            <a
+              href="https://qloudsoft.in/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-slate-400 hover:text-white transition-colors duration-200 underline underline-offset-4 decoration-slate-700 hover:decoration-red-500"
+            >
+              Qloudsoft Solutions
+            </a>
+          </p>
+
           <div className="flex gap-6 text-[13px] font-sans">
             <Link to="/privacy-policy" className="text-slate-500 transition-colors duration-200 hover:text-slate-300">
               Privacy Policy

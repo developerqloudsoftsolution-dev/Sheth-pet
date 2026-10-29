@@ -1,0 +1,53 @@
+name: Deploy to Hostinger
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Frontend Dependencies & Build
+        run: |
+          cd client
+          npm install
+          npm run build
+
+      - name: Deploy to Hostinger via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.HOSTINGER_HOST }}
+          username: ${{ secrets.HOSTINGER_USERNAME }}
+          key: ${{ secrets.HOSTINGER_SSH_KEY }}
+          port: ${{ secrets.HOSTINGER_PORT || 22 }}
+          script: |
+            # Go to app directory
+            cd ${{ secrets.HOSTINGER_TARGET_DIR || '~/sheth-pet' }}
+
+            # Fetch latest commits
+            git pull origin main
+
+            # Install dependencies & build frontend on server
+            npm --prefix client install
+            npm --prefix client run build
+            npm --prefix backend install --omit=dev
+
+            # Ensure upload folder exists
+            mkdir -p backend/uploads
+
+            # Start or reload app with PM2
+            pm2 reload ecosystem.config.cjs --update-env || pm2 start ecosystem.config.cjs
+            pm2 save
+
