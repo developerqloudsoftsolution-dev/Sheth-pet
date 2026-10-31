@@ -6,7 +6,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 import fs from "fs";
 
-import connectDB from "./db/mongoose.js";
+import { connectDB } from "./db/mysql.js";
 import adminRoutes from "./routes/adminRoute.js";
 import productRouter from "./routes/productRoute.js";
 import blogRouter from "./routes/blogRoute.js";
@@ -20,8 +20,8 @@ const __dirname = path.dirname(__filename);
 dotenv.config({ path: path.join(__dirname, ".env") });
 dotenv.config();
 
-console.log("Starting application...");
-console.log("MONGO_URI:", process.env.MONGO_URI ? "Loaded" : "Missing");
+console.log("Starting application with MySQL...");
+console.log("DB_NAME:", process.env.DB_NAME || "sheth");
 console.log("JWT_SECRET:", process.env.JWT_SECRET ? "Loaded" : "Missing");
 
 const app = express();
@@ -50,6 +50,11 @@ if (!fs.existsSync(uploadsPath)) {
   console.log("✅ Created uploads directory");
 }
 app.use("/uploads", express.static(uploadsPath));
+app.use("/uploads/:file", (req, res) => {
+  // Fallback to Cloudinary if file not found locally
+  const fallbackUrl = "https://res.cloudinary.com/p2ccdclk/image/upload/v1793372994/sheth-pet/products/1785736248849-19mm_-_20ml_Tulip_Clear.jpg";
+  res.redirect(fallbackUrl);
+});
 
 connectDB();
 
@@ -72,7 +77,7 @@ app.use((error, req, res, next) => {
 });
 
 app.get("/test", (req, res) => {
-  res.json({ message: "Test route working! " });
+  res.json({ message: "Test route working with MySQL! " });
 });
 
 const distPath = path.join(__dirname, "dist");

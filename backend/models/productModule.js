@@ -1,179 +1,240 @@
-import mongoose from "mongoose";
+import pool from "../db/mysql.js";
 import Counter from "./counterModel.js";
+import crypto from "crypto";
 
-const productSchema = new mongoose.Schema(
-  {
-    name: {
-      type: String,
-      required: true,
-    },
-
-    sku: {
-      type: String,
-      unique: true,
-    },
-
-    category: String,
-
-    productType: String,
-
-    color: {
-      type: [String],
-      default: [],
-    },
-
-    moqPackaging: {
-      type: mongoose.Schema.Types.Mixed,
-      default: {},
-    },
-
-    capType: {
-      type:String,
-      default:'individual'
-    },
-
-    usage: String,
-
-    keySpecs: String, // Keep for backward compatibility
-
-    image: String, // For backward compatibility
-    
-    images: {
-      type: mongoose.Schema.Types.Mixed,
-      default: {}, // { color: filename }
-    },
-
-    showInPopup: {
-      type: Boolean,
-      default: false,
-    },
-
-    marketSegments: {
-      type: [String],
-      default: [],
-    },
-
-    volume: String,
-    neckSize: String,
-    weight: String,
-    
-    // New Key Logistic fields
-    neckProfile: {
-      type: [String],
-      default: [],
-    },
-    ofc: String, // For Bottles/Jars
-    height: String,
-    diameter: String, // For Bottles/Jars
-    pilfer: String, // For Caps
-    length: String, // For Preforms
-
-    // Color-specific specifications: { [colorName]: { volume, neckSize, weight, neckProfile, ofc, height, diameter, pilfer, length, capType, usage, keySpecs } }
-    colorSpecs: {
-      type: mongoose.Schema.Types.Mixed,
-      default: {},
-    },
-  },
-  {
-    timestamps: true,
-  }
-);
-
-// Handle backward compatibility for color, moqPackaging, and neckProfile fields
-productSchema.pre("save", async function () {
+const parseJson = (val, defaultVal) => {
+  if (val === null || val === undefined) return defaultVal;
+  if (typeof val === "object") return val;
   try {
-    // Convert color from string to array if needed
-    if (typeof this.color === 'string' && this.color) {
-      this.color = [this.color];
-    } else if (!Array.isArray(this.color)) {
-      this.color = [];
+    return JSON.parse(val);
+  } catch {
+    return defaultVal;
+  }
+};
+
+const wrapProduct = (row) => {
+  if (!row) return null;
+  return {
+    ...row,
+    color: parseJson(row.color, []),
+    moqPackaging: parseJson(row.moqPackaging, {}),
+    images: parseJson(row.images, {}),
+    marketSegments: parseJson(row.marketSegments, []),
+    neckProfile: parseJson(row.neckProfile, []),
+    colorSpecs: parseJson(row.colorSpecs, {}),
+    showInPopup: Boolean(row.showInPopup),
+    toObject() {
+      return { ...this };
+    },
+  };
+};
+
+class QueryCursor {
+  constructor(queryPromise) {
+    this.promise = queryPromise;
+  }
+
+  sort(sortOptions) {
+    this.promise = this.promise.then((items) => {
+      if (!Array.isArray(items)) return items;
+      return items;
+    });
+    return this;
+  }
+
+  then(resolve, reject) {
+    return this.promise.then(resolve, reject);
+  }
+
+  catch(reject) {
+    return this.promise.catch(reject);
+  }
+
+  finally(callback) {
+    return this.promise.finally(callback);
+  }
+}
+
+export default class Product {
+  static find(query = {}, projection = null) {
+    let sql = "SELECT * FROM products WHERE 1=1";
+    const params = [];
+
+    if (query.category) {
+      if (typeof query.category === "object" && query.category.$not) {
+        sql += " AND LOWER(category) != LOWER('Containers')";
+      } else if (typeof query.category === "object" && query.category.$regex) {
+        const catStr = String(query.category.$regex)
+          .replace(/^\^|\$$/g, "")
+          .replace(/\\/g, "");
+        sql += " AND LOWER(category) = LOWER(?)";
+        params.push(catStr);
+      } else {
+        sql += " AND LOWER(category) = LOWER(?)";
+        params.push(query.category);
+      }
     }
 
-    // Convert moqPackaging from string to object if needed
-    if (typeof this.moqPackaging === 'string' && this.moqPackaging) {
-      this.moqPackaging = { default: this.moqPackaging };
-    } else if (typeof this.moqPackaging !== 'object' || this.moqPackaging === null) {
-      this.moqPackaging = {};
+    if (query.sku) {
+      sql += " AND sku = ?";
+      params.push(query.sku);
     }
 
-    // Convert neckProfile from string to array if needed
-    if (typeof this.neckProfile === 'string' && this.neckProfile) {
-      this.neckProfile = [this.neckProfile];
-    } else if (!Array.isArray(this.neckProfile)) {
-      this.neckProfile = [];
-    }
+    sql += " ORDER BY createdAt DESC";
 
-    // Ensure colorSpecs is an object
-    if (typeof this.colorSpecs !== 'object' || this.colorSpecs === null) {
-      this.colorSpecs = {};
-    }
+    const execQuery = async () => {
+      const [rows] = await pool.query(sql, params);
+      return rows.map(wrapProduct);
+    };
 
-    // Generate SKU if needed
-    if (this.isNew && !this.sku) {
+    return new QueryCursor(execQuery());
+  }
+
+  static async findById(id) {
+    const [rows] = await pool.query("SELECT * FROM products WHERE _id = ? LIMIT 1", [id]);
+    return wrapProduct(rows[0]);
+  }
+
+  static async findOne(query = {}) {
+    if (query.sku) {
+      const [rows] = await pool.query("SELECT * FROM products WHERE sku = ? LIMIT 1", [query.sku]);
+      return wrapProduct(rows[0]);
+    }
+    if (query._id) {
+      return this.findById(query._id);
+    }
+    const [rows] = await pool.query("SELECT * FROM products LIMIT 1");
+    return wrapProduct(rows[0]);
+  }
+
+  static async create(data) {
+    const _id = data._id || crypto.randomBytes(12).toString("hex");
+
+    let sku = data.sku;
+    if (!sku) {
       const counter = await Counter.findOneAndUpdate(
         { name: "productSku" },
         { $inc: { sequence: 1 } },
-        {
-          returnDocument: "after",
-          upsert: true,
-        }
+        { upsert: true }
       );
-
-      this.sku = `SKU-${String(counter.sequence).padStart(4, "0")}`;
+      sku = `SKU-${String(counter.sequence).padStart(4, "0")}`;
     }
-  } catch (error) {
-    throw error;
+
+    const color = JSON.stringify(Array.isArray(data.color) ? data.color : []);
+    const moqPackaging = JSON.stringify(data.moqPackaging && typeof data.moqPackaging === "object" ? data.moqPackaging : {});
+    const images = JSON.stringify(data.images && typeof data.images === "object" ? data.images : {});
+    const marketSegments = JSON.stringify(Array.isArray(data.marketSegments) ? data.marketSegments : []);
+    const neckProfile = JSON.stringify(Array.isArray(data.neckProfile) ? data.neckProfile : []);
+    const colorSpecs = JSON.stringify(data.colorSpecs && typeof data.colorSpecs === "object" ? data.colorSpecs : {});
+    const showInPopup = data.showInPopup ? 1 : 0;
+
+    const query = `
+      INSERT INTO products (
+        _id, name, sku, category, productType, color, moqPackaging,
+        capType, \`usage\`, keySpecs, image, images, showInPopup,
+        marketSegments, volume, neckSize, weight, neckProfile,
+        ofc, height, diameter, pilfer, length, colorSpecs,
+        createdAt, updatedAt
+      ) VALUES (
+        ?, ?, ?, ?, ?, ?, ?,
+        ?, ?, ?, ?, ?, ?,
+        ?, ?, ?, ?, ?,
+        ?, ?, ?, ?, ?, ?,
+        NOW(), NOW()
+      )
+    `;
+
+    const values = [
+      _id,
+      data.name,
+      sku,
+      data.category,
+      data.productType || "",
+      color,
+      moqPackaging,
+      data.capType || "individual",
+      data.usage || "",
+      data.keySpecs || "",
+      data.image || null,
+      images,
+      showInPopup,
+      marketSegments,
+      data.volume || "",
+      data.neckSize || "",
+      data.weight || "",
+      neckProfile,
+      data.ofc || "",
+      data.height || "",
+      data.diameter || "",
+      data.pilfer || "",
+      data.length || "",
+      colorSpecs,
+    ];
+
+    await pool.query(query, values);
+    return this.findById(_id);
   }
-});
 
-// Handle backward compatibility for update operations too!
-productSchema.pre(['findOneAndUpdate', 'updateOne', 'updateMany'], function () {
-  try {
-    const update = this.getUpdate();
+  static async findByIdAndUpdate(id, updateData, options = {}) {
+    const existing = await this.findById(id);
+    if (!existing) return null;
 
-    // Handle color field in updates
-    if (update.color !== undefined) {
-      if (typeof update.color === 'string' && update.color) {
-        update.color = [update.color];
-      } else if (!Array.isArray(update.color)) {
-        update.color = [];
+    const fields = [];
+    const values = [];
+
+    const stringFields = [
+      "name",
+      "sku",
+      "category",
+      "productType",
+      "capType",
+      "usage",
+      "keySpecs",
+      "image",
+      "volume",
+      "neckSize",
+      "weight",
+      "ofc",
+      "height",
+      "diameter",
+      "pilfer",
+      "length",
+    ];
+
+    for (const key of stringFields) {
+      if (updateData[key] !== undefined) {
+        fields.push(`\`${key}\` = ?`);
+        values.push(updateData[key]);
       }
     }
 
-    // Handle moqPackaging field in updates
-    if (update.moqPackaging !== undefined) {
-      if (typeof update.moqPackaging === 'string' && update.moqPackaging) {
-        update.moqPackaging = { default: update.moqPackaging };
-      } else if (typeof update.moqPackaging !== 'object' || update.moqPackaging === null) {
-        update.moqPackaging = {};
+    if (updateData.showInPopup !== undefined) {
+      fields.push("`showInPopup` = ?");
+      values.push(updateData.showInPopup ? 1 : 0);
+    }
+
+    const jsonFields = ["color", "moqPackaging", "images", "marketSegments", "neckProfile", "colorSpecs"];
+    for (const key of jsonFields) {
+      if (updateData[key] !== undefined) {
+        fields.push(`\`${key}\` = ?`);
+        values.push(JSON.stringify(updateData[key]));
       }
     }
 
-    // Handle neckProfile field in updates
-    if (update.neckProfile !== undefined) {
-      if (typeof update.neckProfile === 'string' && update.neckProfile) {
-        update.neckProfile = [update.neckProfile];
-      } else if (!Array.isArray(update.neckProfile)) {
-        update.neckProfile = [];
-      }
+    if (fields.length > 0) {
+      fields.push("`updatedAt` = NOW()");
+      values.push(id);
+      const sql = `UPDATE products SET ${fields.join(", ")} WHERE _id = ?`;
+      await pool.query(sql, values);
     }
 
-    // Handle colorSpecs field in updates
-    if (update.colorSpecs !== undefined) {
-      if (typeof update.colorSpecs === 'string' && update.colorSpecs) {
-        try {
-          update.colorSpecs = JSON.parse(update.colorSpecs);
-        } catch {
-          update.colorSpecs = {};
-        }
-      }
-      if (typeof update.colorSpecs !== 'object' || update.colorSpecs === null) {
-        update.colorSpecs = {};
-      }
-    }
-  } catch (error) {
-    throw error;
+    return this.findById(id);
   }
-});
 
-export default mongoose.model("Product", productSchema);
+  static async findByIdAndDelete(id) {
+    const existing = await this.findById(id);
+    if (!existing) return null;
+    await pool.query("DELETE FROM products WHERE _id = ?", [id]);
+    return existing;
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "6a7c7043eb0bec90a2e43e86",
+    "postName": "Software engineer",
+    "location": "Thane,Maharashtra",
+    "employmentType": "Full-time",
+    "experience": "2years",
+    "education": "12th pass",
+    "salary": "20000-30000",
+    "isActive": true,
+    "createdAt": "2026-08-12T13:08:19.212Z",
+    "updatedAt": "2026-08-12T13:08:19.212Z",
+    "__v": 0
+  }
+]

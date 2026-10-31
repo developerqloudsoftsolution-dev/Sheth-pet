@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "6a69fad18a73f7be5f633e55",
+    "email": "officeshethpet@gmail.com",
+    "password": "$2b$10$n4phCY4E10T8cWOfTXRwfueYpFiS72TFpzzOzyG5HvEmHr1hzHSOy",
+    "otp": null,
+    "otpExpiry": null,
+    "createdAt": "2026-07-29T13:06:25.808Z",
+    "updatedAt": "2026-07-29T13:06:25.808Z",
+    "__v": 0
+  }
+]

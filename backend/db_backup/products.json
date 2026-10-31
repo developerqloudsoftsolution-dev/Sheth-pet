@@ -1,0 +1,3445 @@
+[
+  {
+    "_id": "6a702c3924f8d7d94730bf01",
+    "name": "19mm / 20ml Tulip",
+    "sku": "ASB013",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "3094"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793372994/sheth-pet/products/1785736248849-19mm_-_20ml_Tulip_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373047/sheth-pet/products/1785736368665-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical",
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "20ml",
+    "neckSize": "19mm",
+    "weight": "5gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "28ml",
+    "height": "80mm",
+    "diameter": "28mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T00:20:49.000Z",
+    "updatedAt": "2026-10-30T15:10:48.000Z"
+  },
+  {
+    "_id": "6a702f8e24f8d7d94730bf02",
+    "name": "19mm / 30ml Square ",
+    "sku": "ASB014",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "2112"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373048/sheth-pet/products/1785737102582-19mm_-_30ml_Square_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373049/sheth-pet/products/1785737131207-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "30ml",
+    "neckSize": "19mm",
+    "weight": "5gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "36ml",
+    "height": "66mm",
+    "diameter": "28mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T00:35:02.000Z",
+    "updatedAt": "2026-10-30T15:10:49.000Z"
+  },
+  {
+    "_id": "6a70306f24f8d7d94730bf03",
+    "name": "19mm / 50ml Flat ",
+    "sku": "ASB018",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "1350"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373050/sheth-pet/products/1785737327932-19mm_-_50ml_Flat_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373051/sheth-pet/products/1785737327975-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "50ml",
+    "neckSize": "19mm",
+    "weight": "9gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "57ml",
+    "height": "91mm",
+    "diameter": "38 X 27mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T00:38:47.000Z",
+    "updatedAt": "2026-10-30T15:10:52.000Z"
+  },
+  {
+    "_id": "6a70314524f8d7d94730bf04",
+    "name": "19mm / 50ml Round",
+    "sku": "ASB021",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "1404"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373052/sheth-pet/products/1785737541739-19mm_-_50ml_Round_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373053/sheth-pet/products/1785737541757-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "50ml",
+    "neckSize": "19mm",
+    "weight": "9gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "58ml",
+    "height": "97mm",
+    "diameter": "33mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T00:42:21.000Z",
+    "updatedAt": "2026-10-30T15:10:54.000Z"
+  },
+  {
+    "_id": "6a7031f524f8d7d94730bf05",
+    "name": "19mm / 50ml Square ",
+    "sku": "ASB022",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "1254"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373054/sheth-pet/products/1785737717588-19mm_-_50ml_Square_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373055/sheth-pet/products/1785737717596-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "50ml",
+    "neckSize": "19mm",
+    "weight": "9gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "69ml",
+    "height": "82mm",
+    "diameter": "32mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T00:45:17.000Z",
+    "updatedAt": "2026-10-30T15:10:56.000Z"
+  },
+  {
+    "_id": "6a7032f224f8d7d94730bf06",
+    "name": "19mm / 50ml Tulip",
+    "sku": "ASB023",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "1452"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373056/sheth-pet/products/1785737970644-19mm_-_50ml_Tulip_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373057/sheth-pet/products/1785737970650-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "50ml",
+    "neckSize": "19mm",
+    "weight": "9gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "62ml",
+    "height": "98mm",
+    "diameter": "38mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T00:49:30.000Z",
+    "updatedAt": "2026-10-30T15:10:58.000Z"
+  },
+  {
+    "_id": "6a70343524f8d7d94730bf07",
+    "name": "19mm / 100ml Aster",
+    "sku": "ASB001",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "672"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373058/sheth-pet/products/1785738293450-19mm_-_100ml_Aster_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373059/sheth-pet/products/1785738293463-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "100ml",
+    "neckSize": "19mm",
+    "weight": "13gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "100ml",
+    "height": "109mm",
+    "diameter": "38 X 25mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T00:54:53.000Z",
+    "updatedAt": "2026-10-30T15:11:00.000Z"
+  },
+  {
+    "_id": "6a7034e924f8d7d94730bf08",
+    "name": "19mm / 100ml Boston",
+    "sku": "ASB002",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "600"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373060/sheth-pet/products/1785738473701-19mm_-_100ml_Boston_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373061/sheth-pet/products/1785738473710-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "100ml",
+    "neckSize": "19mm",
+    "weight": "13gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "117ml",
+    "height": "89mm",
+    "diameter": "49mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T00:57:53.000Z",
+    "updatedAt": "2026-10-30T15:11:02.000Z"
+  },
+  {
+    "_id": "6a7035be24f8d7d94730bf09",
+    "name": "19mm / 100ml Flat",
+    "sku": "ASB003",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "704"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373062/sheth-pet/products/1785738905915-19mm_-_100ml_Flat_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373063/sheth-pet/products/1785738686889-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "100ml",
+    "neckSize": "19mm",
+    "weight": "13gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "110ml",
+    "height": "126mm",
+    "diameter": "30 X 46mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:01:26.000Z",
+    "updatedAt": "2026-10-30T15:11:03.000Z"
+  },
+  {
+    "_id": "6a70368f24f8d7d94730bf0a",
+    "name": "19mm / 100ml KK",
+    "sku": "ASB005",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "660"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373064/sheth-pet/products/1785738895792-19mm_-_100ml_KK_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373065/sheth-pet/products/1785738895854-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "100ml",
+    "neckSize": "19mm",
+    "weight": "13gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "106ml",
+    "height": "116mm",
+    "diameter": "57 X 30mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:04:55.000Z",
+    "updatedAt": "2026-10-30T15:11:05.000Z"
+  },
+  {
+    "_id": "6a70378a24f8d7d94730bf0b",
+    "name": "19mm / 100ml Orchid",
+    "sku": "ASB007",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "616"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373066/sheth-pet/products/1785739146670-19mm_-_100ml_Orchid_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373066/sheth-pet/products/1785739146715-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "100ml",
+    "neckSize": "19mm",
+    "weight": "13gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "106ml",
+    "height": "125mm",
+    "diameter": "50 X 32mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:09:06.000Z",
+    "updatedAt": "2026-10-30T15:11:07.000Z"
+  },
+  {
+    "_id": "6a7038a524f8d7d94730bf0c",
+    "name": "19mm / 100ml Round",
+    "sku": "ASB008",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Amber",
+      "Opaque White"
+    ],
+    "moqPackaging": {
+      "Clear": "810",
+      "Amber": "810",
+      "Opaque White": "810"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373067/sheth-pet/products/1785739429386-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373067/sheth-pet/products/1785739429386-Family.jpg",
+      "Amber": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373068/sheth-pet/products/1785739429386-19mm_-_100ml_Round_Amber.jpg",
+      "Opaque White": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373069/sheth-pet/products/1785739726796-19mm_-_100ml_Round_Opaque_White.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care",
+      "Pharmaceutical"
+    ],
+    "volume": "100ml",
+    "neckSize": "19mm",
+    "weight": "13gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "117ml",
+    "height": "119mm",
+    "diameter": "40mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:13:49.000Z",
+    "updatedAt": "2026-10-30T15:11:10.000Z"
+  },
+  {
+    "_id": "6a703acc24f8d7d94730bf0d",
+    "name": "19mm / 100ml Square",
+    "sku": "ASB009",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "900"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373070/sheth-pet/products/1785739980934-19mm_-_100ml_Square_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373071/sheth-pet/products/1785739980939-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "100ml",
+    "neckSize": "19mm",
+    "weight": "13gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "112ml",
+    "height": "116mm",
+    "diameter": "36 X 36mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:23:00.000Z",
+    "updatedAt": "2026-10-30T15:11:11.000Z"
+  },
+  {
+    "_id": "6a703b8024f8d7d94730bf0e",
+    "name": "19mm / 100ml Tulip",
+    "sku": "ASB010",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "850"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373072/sheth-pet/products/1785740160105-19mm_-_100ml_Tulip_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373073/sheth-pet/products/1785740160112-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "100ml",
+    "neckSize": "19mm",
+    "weight": "13gm",
+    "neckProfile": [
+      "SP410"
+    ],
+    "ofc": "106ml",
+    "height": "144mm",
+    "diameter": "39mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:26:00.000Z",
+    "updatedAt": "2026-10-30T15:11:13.000Z"
+  },
+  {
+    "_id": "6a703c5324f8d7d94730bf0f",
+    "name": "22mm / 10ml Pharma",
+    "sku": "ASB024",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "4224"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373074/sheth-pet/products/1785740371401-22mm_-_10ml_Pharma_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373074/sheth-pet/products/1785740371411-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical"
+    ],
+    "volume": "10ml",
+    "neckSize": "22mm",
+    "weight": "5gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "17ml",
+    "height": "48mm",
+    "diameter": "26mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:29:31.000Z",
+    "updatedAt": "2026-10-30T15:11:15.000Z"
+  },
+  {
+    "_id": "6a703d0624f8d7d94730bf10",
+    "name": "22mm / 20ml Pharma",
+    "sku": "ASB026",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "2970"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373075/sheth-pet/products/1785740550358-22mm_-_20ml_Pharma_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373076/sheth-pet/products/1785740550364-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical"
+    ],
+    "volume": "20ml",
+    "neckSize": "22mm",
+    "weight": "5gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "25ml",
+    "height": "57mm",
+    "diameter": "28mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:32:30.000Z",
+    "updatedAt": "2026-10-30T15:11:17.000Z"
+  },
+  {
+    "_id": "6a703f5324f8d7d94730bf13",
+    "name": "24mm / 200ml Round",
+    "sku": "ASB029",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Opauqe White"
+    ],
+    "moqPackaging": {
+      "Clear": "648",
+      "Family": "648",
+      "Opauqe White": "648"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373077/sheth-pet/products/1785741139133-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373077/sheth-pet/products/1785741139133-Family.jpg",
+      "Opauqe White": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373079/sheth-pet/products/1785741139133-24mm_-_200ml_Round_Opauqe_White.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "200ml",
+    "neckSize": "24mm",
+    "weight": "22gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "225ml",
+    "height": "149mm",
+    "diameter": "49mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:42:19.000Z",
+    "updatedAt": "2026-10-30T15:11:20.000Z"
+  },
+  {
+    "_id": "6a70407624f8d7d94730bf14",
+    "name": "24mm / 200ml Square",
+    "sku": "ASB030",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "748",
+      "Family": "748"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373081/sheth-pet/products/1785741430565-24mm_-_200ml_Square_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373083/sheth-pet/products/1785741430573-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "200ml",
+    "neckSize": "24mm",
+    "weight": "22gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "205ml",
+    "height": "140mm",
+    "diameter": "44mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:47:10.000Z",
+    "updatedAt": "2026-10-30T15:11:23.000Z"
+  },
+  {
+    "_id": "6a70411a24f8d7d94730bf15",
+    "name": "24mm / 200ml Tulip",
+    "sku": "ASB031",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Opaque Black",
+      "Opaque White"
+    ],
+    "moqPackaging": {
+      "Clear": "648",
+      "Family": "648",
+      "Opaque Black": "648",
+      "Opaque White": "648"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373083/sheth-pet/products/1785741594944-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373083/sheth-pet/products/1785741594944-Family.jpg",
+      "Opaque Black": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373084/sheth-pet/products/1785741594945-24mm_-_200ml_Tulip_Opaque_Black.jpg",
+      "Opaque White": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373085/sheth-pet/products/1785741667964-24mm_-_200ml_Tulip_Opaque_White.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "200ml",
+    "neckSize": "24mm",
+    "weight": "22gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "215ml",
+    "height": "143mm",
+    "diameter": "49mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:49:54.000Z",
+    "updatedAt": "2026-10-30T15:11:26.000Z"
+  },
+  {
+    "_id": "6a70421f24f8d7d94730bf16",
+    "name": "24mm / 250ml Round",
+    "sku": "ASB033",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Opaque Black"
+    ],
+    "moqPackaging": {
+      "Clear": "648",
+      "Family": "648",
+      "Opaque Black": "648"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373086/sheth-pet/products/1785741855306-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373087/sheth-pet/products/1785741855307-Family.jpg",
+      "Opaque Black": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373087/sheth-pet/products/1785741855311-24mm_-_250ml_Round_Clear_Opaque_Black.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care",
+      "Pharmaceutical"
+    ],
+    "volume": "200ml",
+    "neckSize": "24mm",
+    "weight": "26gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "230ml",
+    "height": "163mm",
+    "diameter": "50mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:54:15.000Z",
+    "updatedAt": "2026-10-30T15:11:28.000Z"
+  },
+  {
+    "_id": "6a7042f224f8d7d94730bf17",
+    "name": "25mm / 30ml Pharma",
+    "sku": "ASB056",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Amber"
+    ],
+    "moqPackaging": {
+      "Clear": "1778",
+      "Family": "1778",
+      "Amber": "1778"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373089/sheth-pet/products/1785742066526-25mm_-_30ml_Pharma_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373089/sheth-pet/products/1785742066534-Family.jpg",
+      "Amber": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373090/sheth-pet/products/1785742066534-25mm_-_30ml_Pharma_Amber.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Pharmaceutical"
+    ],
+    "volume": "30ml",
+    "neckSize": "25mm",
+    "weight": "8gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "38ml",
+    "height": "78mm",
+    "diameter": "31mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T01:57:46.000Z",
+    "updatedAt": "2026-10-30T15:11:31.000Z"
+  },
+  {
+    "_id": "6a7043c724f8d7d94730bf18",
+    "name": "25mm / 75ml Pharma",
+    "sku": "ASB064",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "918",
+      "Family": "918"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373092/sheth-pet/products/1785742279545-25mm_-_75ml_Pharma_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373092/sheth-pet/products/1785742279560-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical"
+    ],
+    "volume": "75ml",
+    "neckSize": "25mm",
+    "weight": "10gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "85ml",
+    "height": "100mm",
+    "diameter": "40mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T02:01:19.000Z",
+    "updatedAt": "2026-10-30T15:11:33.000Z"
+  },
+  {
+    "_id": "6a70443e24f8d7d94730bf19",
+    "name": "25mm / 75ml Square",
+    "sku": "ASB066",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "1020",
+      "Family": "1020"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373093/sheth-pet/products/1785742398281-25mm_-_75ml_Square_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373094/sheth-pet/products/1785742398291-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "75ml",
+    "neckSize": "25mm",
+    "weight": "13gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "86ml",
+    "height": "95mm",
+    "diameter": "37mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T02:03:18.000Z",
+    "updatedAt": "2026-10-30T15:11:35.000Z"
+  },
+  {
+    "_id": "6a70457024f8d7d94730bf1a",
+    "name": "25mm / 200ml Brute",
+    "sku": "ASB048",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "660",
+      "Family": "600"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373095/sheth-pet/products/1785742704132-25mm_-_200ml_Brute_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373096/sheth-pet/products/1785742704137-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care",
+      "Pharmaceutical"
+    ],
+    "volume": "200ml",
+    "neckSize": "25mm",
+    "weight": "18gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "200ml",
+    "height": "122mm",
+    "diameter": "46mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T02:08:24.000Z",
+    "updatedAt": "2026-10-30T15:11:36.000Z"
+  },
+  {
+    "_id": "6a70460724f8d7d94730bf1b",
+    "name": "25mm / 200ml Oval",
+    "sku": "ASB050",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "624",
+      "Family": "624"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373097/sheth-pet/products/1785742855033-25mm_-_200ml_Oval_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373097/sheth-pet/products/1785742855040-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "200ml",
+    "neckSize": "25mm",
+    "weight": "22gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "220ml",
+    "height": "150mm",
+    "diameter": "62 X 36mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T02:10:55.000Z",
+    "updatedAt": "2026-10-30T15:11:38.000Z"
+  },
+  {
+    "_id": "6a704a2424f8d7d94730bf1c",
+    "name": "28mm / 200ml MW",
+    "sku": "SS035",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "640",
+      "Family": "640"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373098/sheth-pet/products/1785743908680-28mm_-_200ml_MW_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373099/sheth-pet/products/1785743908688-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care",
+      "Food & Beverages"
+    ],
+    "volume": "200ml",
+    "neckSize": "28mm",
+    "weight": "13gm",
+    "neckProfile": [
+      "ROPP",
+      "PCO",
+      "Alaska"
+    ],
+    "ofc": "215ml",
+    "height": "141mm",
+    "diameter": "48mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T02:28:28.000Z",
+    "updatedAt": "2026-10-30T15:11:40.000Z"
+  },
+  {
+    "_id": "6a704aec24f8d7d94730bf1d",
+    "name": "28mm / 200ml Sanitol",
+    "sku": "SS040",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "612",
+      "Family": "612"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373101/sheth-pet/products/1785744108967-28mm_-_200ml_Sanitol_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373102/sheth-pet/products/1785744108974-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Pharmaceutical",
+      "Home Care"
+    ],
+    "volume": "200ml",
+    "neckSize": "28mm",
+    "weight": "15gm & 18gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "210mm",
+    "height": "148mm",
+    "diameter": "51mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T02:31:48.000Z",
+    "updatedAt": "2026-10-30T15:11:43.000Z"
+  },
+  {
+    "_id": "6a704bfb24f8d7d94730bf1e",
+    "name": "28mm / 225ml Dishwash",
+    "sku": "SS047",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "480",
+      "Family": "480"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373103/sheth-pet/products/1785744379536-28mm_-_225ml_Dishwash_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373104/sheth-pet/products/1785744379551-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "200ml",
+    "neckSize": "28mm",
+    "weight": "18gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "225ml",
+    "height": "167mm",
+    "diameter": "65 X 38mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T02:36:19.000Z",
+    "updatedAt": "2026-10-30T15:11:45.000Z"
+  },
+  {
+    "_id": "6a704cc324f8d7d94730bf1f",
+    "name": "28mm / 250ml HiFi",
+    "sku": "SS049",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "455",
+      "Family": "455"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373105/sheth-pet/products/1785744579776-28mm_-_250ml_HiFi_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373107/sheth-pet/products/1785744579782-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "250ml",
+    "neckSize": "28mm",
+    "weight": "22gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "270ml",
+    "height": "115mm",
+    "diameter": "67mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T02:39:39.000Z",
+    "updatedAt": "2026-10-30T15:11:48.000Z"
+  },
+  {
+    "_id": "6a704d7624f8d7d94730bf20",
+    "name": "28mm / 300ml Pharma ",
+    "sku": "SS057",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Amber"
+    ],
+    "moqPackaging": {
+      "Clear": "392",
+      "Family": "392"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373108/sheth-pet/products/1785744758778-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793373108/sheth-pet/products/1785744758779-Family.jpg",
+      "Amber": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421767/sheth-pet/products/1785744758779-28mm_-_300ml_Pharma_Amber.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical"
+    ],
+    "volume": "300ml",
+    "neckSize": "28mm",
+    "weight": "29gm",
+    "neckProfile": [
+      "ROPP",
+      "Alaska",
+      "PCO"
+    ],
+    "ofc": "320ml",
+    "height": "205mm",
+    "diameter": "54mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T02:42:38.000Z",
+    "updatedAt": "2026-10-31T04:42:48.000Z"
+  },
+  {
+    "_id": "6a704e5b24f8d7d94730bf21",
+    "name": "28mm / 350ml Pharma TS",
+    "sku": "SS060",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "364",
+      "Family": "364"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421768/sheth-pet/products/1785744987330-28mm_-_350ml_Pharma_Clear_TS.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421770/sheth-pet/products/1785744987339-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care",
+      "Pharmaceutical"
+    ],
+    "volume": "350ml",
+    "neckSize": "28mm",
+    "weight": "29gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "360ml",
+    "height": "156mm",
+    "diameter": "65mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T02:46:27.000Z",
+    "updatedAt": "2026-10-31T04:42:50.000Z"
+  },
+  {
+    "_id": "6a70505b24f8d7d94730bf22",
+    "name": "28mm / 400ml Pharma",
+    "sku": "ASB070",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Amber"
+    ],
+    "moqPackaging": {
+      "Clear": "312",
+      "Family": "312",
+      "Amber": "312"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421771/sheth-pet/products/1785745499645-28mm_-_400ml_Pharma_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421772/sheth-pet/products/1785745499654-Family.jpg",
+      "Amber": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421773/sheth-pet/products/1785745499654-28mm_-_400ml_Pharma_Amber.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Pharmaceutical",
+      "Home Care"
+    ],
+    "volume": "400ml",
+    "neckSize": "28mm",
+    "weight": "32gm & 40gm",
+    "neckProfile": [
+      "ROPP",
+      "PCO",
+      "Alaska"
+    ],
+    "ofc": "425ml",
+    "height": "160mm",
+    "diameter": "67mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T02:54:59.000Z",
+    "updatedAt": "2026-10-31T04:42:53.000Z"
+  },
+  {
+    "_id": "6a70511c24f8d7d94730bf24",
+    "name": "28mm / 400ml Pharma TS",
+    "sku": "SS067",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "312",
+      "Family": "312"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421774/sheth-pet/products/1785745756837-28mm_-_400ml_Pharma_Clear_TS.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421775/sheth-pet/products/1785745756846-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical",
+      "Home Care"
+    ],
+    "volume": "400ml",
+    "neckSize": "28mm",
+    "weight": "32gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "425ml",
+    "height": "160mm",
+    "diameter": "67mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T02:58:12.000Z",
+    "updatedAt": "2026-10-31T04:42:56.000Z"
+  },
+  {
+    "_id": "6a70525c24f8d7d94730bf25",
+    "name": "28mm / 450ml Pharma",
+    "sku": "ASB071",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Amber"
+    ],
+    "moqPackaging": {
+      "Clear": "264",
+      "Family": "264",
+      "Amber": "264"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421777/sheth-pet/products/1785746012711-28mm_-_450ml_Pharma_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421778/sheth-pet/products/1785746012723-Family.jpg",
+      "Amber": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421779/sheth-pet/products/1785746012724-28mm_-_450ml_Pharma_Amber.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical"
+    ],
+    "volume": "450ml",
+    "neckSize": "28mm",
+    "weight": "40gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "525ml",
+    "height": "168mm",
+    "diameter": "73mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T03:03:32.000Z",
+    "updatedAt": "2026-10-31T04:42:59.000Z"
+  },
+  {
+    "_id": "6a70536424f8d7d94730bf26",
+    "name": "28mm / 500ml Boston",
+    "sku": "ASB072",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "288",
+      "Family": "288"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421782/sheth-pet/products/1785746276378-28mm_-_500ml_Boston_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421783/sheth-pet/products/1785746276392-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "500ml",
+    "neckSize": "28mm",
+    "weight": "36gm & 40gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "513ml",
+    "height": "201mm",
+    "diameter": "63mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T03:07:56.000Z",
+    "updatedAt": "2026-10-31T04:43:04.000Z"
+  },
+  {
+    "_id": "6a7054c624f8d7d94730bf27",
+    "name": "28mm / 500ml Brute",
+    "sku": "SS073",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "204",
+      "Family": "204"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421788/sheth-pet/products/1785746630440-28mm_-_500ml_Brute_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421790/sheth-pet/products/1785746630449-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "500ml",
+    "neckSize": "28mm",
+    "weight": "40gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "510ml",
+    "height": "225mm",
+    "diameter": "76 X 225mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T03:13:50.000Z",
+    "updatedAt": "2026-10-31T04:43:10.000Z"
+  },
+  {
+    "_id": "6a70571224f8d7d94730bf28",
+    "name": "28mm / 500ml Lotion",
+    "sku": "ASB073",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "264",
+      "Family": "264"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421794/sheth-pet/products/1785747218344-28mm_-_500ml_Lotion_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421796/sheth-pet/products/1785747218352-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "500ml",
+    "neckSize": "28mm",
+    "weight": "32gm & 40gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "525ml",
+    "height": "183mm",
+    "diameter": "70mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T03:23:38.000Z",
+    "updatedAt": "2026-10-31T04:43:17.000Z"
+  },
+  {
+    "_id": "6a70586124f8d7d94730bf29",
+    "name": "28mm / 500ml Noni",
+    "sku": "SS085",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Green"
+    ],
+    "moqPackaging": {
+      "Clear": "198",
+      "Family": "198",
+      "Green": "198"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421797/sheth-pet/products/1785747553937-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421797/sheth-pet/products/1785747553937-Family.jpg",
+      "Green": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421800/sheth-pet/products/1785747553938-28mm_-_500ml_Noni_Green.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical",
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "500ml",
+    "neckSize": "28mm",
+    "weight": "32gm, 48gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "520ml",
+    "height": "250mm",
+    "diameter": "64mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T03:29:13.000Z",
+    "updatedAt": "2026-10-31T04:43:22.000Z"
+  },
+  {
+    "_id": "6a70591224f8d7d94730bf2a",
+    "name": "28mm / 500ml Oil",
+    "sku": "SS086",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "244",
+      "Family": "244"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421805/sheth-pet/products/1785747730121-28mm_-_500ml_Oil_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421806/sheth-pet/products/1785747730134-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care",
+      "Pharmaceutical"
+    ],
+    "volume": "500ml",
+    "neckSize": "28mm",
+    "weight": "22gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "525ml",
+    "height": "201mm",
+    "diameter": "73mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T03:32:10.000Z",
+    "updatedAt": "2026-10-31T04:43:27.000Z"
+  },
+  {
+    "_id": "6a705a1724f8d7d94730bf2b",
+    "name": "28mm / 500ml Rose",
+    "sku": "ASB074",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "192",
+      "Family": "192"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421809/sheth-pet/products/1785747991250-28mm_-_500ml_Rose_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421810/sheth-pet/products/1785747991262-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "500ml",
+    "neckSize": "28mm",
+    "weight": "32gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP"
+    ],
+    "ofc": "555ml",
+    "height": "172mm",
+    "diameter": "48mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T03:36:31.000Z",
+    "updatedAt": "2026-10-31T04:43:30.000Z"
+  },
+  {
+    "_id": "6a705b2424f8d7d94730bf2c",
+    "name": "28mm / 500ml Sanitol",
+    "sku": "SS091",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "288",
+      "Family": "288"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421811/sheth-pet/products/1785748260233-28mm_-_500ml_Sanitol_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421812/sheth-pet/products/1785748260260-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care",
+      "Pharmaceutical"
+    ],
+    "volume": "500ml",
+    "neckSize": "28mm",
+    "weight": "22gm & 25gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "515ml",
+    "height": "190mm",
+    "diameter": "68mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T03:41:00.000Z",
+    "updatedAt": "2026-10-31T04:43:32.000Z"
+  },
+  {
+    "_id": "6a70619024f8d7d94730bf2d",
+    "name": "28mm / 500ml Square",
+    "sku": "SS094",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "231",
+      "Family": "231"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421814/sheth-pet/products/1785749904133-28mm_-_500ml_Square_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421815/sheth-pet/products/1785749904146-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "500ml",
+    "neckSize": "28mm",
+    "weight": "40gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "520ml",
+    "height": "202mm",
+    "diameter": "58mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:08:24.000Z",
+    "updatedAt": "2026-10-31T04:43:35.000Z"
+  },
+  {
+    "_id": "6a70622024f8d7d94730bf2e",
+    "name": "28mm / 500ml Tulip TS",
+    "sku": "SS101",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "288",
+      "Family": "288"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421817/sheth-pet/products/1785750048318-28mm_-_500ml_Tulip_Clear_TS.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421818/sheth-pet/products/1785750048330-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "500ml",
+    "neckSize": "28mm",
+    "weight": "32gm",
+    "neckProfile": [
+      "ROPP",
+      "PCO",
+      "Alaska"
+    ],
+    "ofc": "515ml",
+    "height": "183mm",
+    "diameter": "68mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:10:48.000Z",
+    "updatedAt": "2026-10-31T04:43:39.000Z"
+  },
+  {
+    "_id": "6a70630b24f8d7d94730bf2f",
+    "name": "28mm / 500ml Tulip",
+    "sku": "ASB075",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Opaque White"
+    ],
+    "moqPackaging": {
+      "Clear": "288",
+      "Family": "288"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421819/sheth-pet/products/1785750282995-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421819/sheth-pet/products/1785750282995-Family.jpg",
+      "Opaque White": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421821/sheth-pet/products/1785750282996-28mm_-_500ml_Tulip_Opaque_White.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "500ml",
+    "neckSize": "28mm",
+    "weight": "40gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "515ml",
+    "height": "183mm",
+    "diameter": "68",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:14:43.000Z",
+    "updatedAt": "2026-10-31T04:43:42.000Z"
+  },
+  {
+    "_id": "6a7063c824f8d7d94730bf30",
+    "name": "28mm / 600ml Oval",
+    "sku": "SS102",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "189",
+      "Family": "189"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421824/sheth-pet/products/1785750472250-28mm_-_600ml_Oval_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421825/sheth-pet/products/1785750472258-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "500ml",
+    "neckSize": "28mm",
+    "weight": "44gm",
+    "neckProfile": [
+      "PCO",
+      "Alaska",
+      "ROPP"
+    ],
+    "ofc": "610ml",
+    "height": "205mm",
+    "diameter": "81 X 54mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:17:52.000Z",
+    "updatedAt": "2026-10-31T04:43:45.000Z"
+  },
+  {
+    "_id": "6a70649224f8d7d94730bf31",
+    "name": "28mm / 750ml Noni",
+    "sku": "SS110",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "123",
+      "Family": "123"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421828/sheth-pet/products/1785750673953-28mm_-_750ml_Noni_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421829/sheth-pet/products/1785750674287-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "750ml",
+    "neckSize": "28mm",
+    "weight": "18gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "780ml",
+    "height": "282mm",
+    "diameter": "74mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:21:14.000Z",
+    "updatedAt": "2026-10-31T04:43:49.000Z"
+  },
+  {
+    "_id": "6a70655824f8d7d94730bf32",
+    "name": "28mm / 1000ml Dishwash",
+    "sku": "SS003",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "117",
+      "Family": "117"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421832/sheth-pet/products/1785750872757-28mm_-_1000ml_Dishwash_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421833/sheth-pet/products/1785750872877-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "1000ml",
+    "neckSize": "28mm",
+    "weight": "44gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "1000ml",
+    "height": "260mm",
+    "diameter": "107 X 65mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:24:32.000Z",
+    "updatedAt": "2026-10-31T04:43:53.000Z"
+  },
+  {
+    "_id": "6a7065f324f8d7d94730bf33",
+    "name": "28mm / 1000ml Oil",
+    "sku": "SS012",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "96",
+      "Family": "96"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421836/sheth-pet/products/1785751027965-28mm_-_1000ml_Oil_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421837/sheth-pet/products/1785751027976-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "1000ml",
+    "neckSize": "28mm",
+    "weight": "32gm ",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "1050ml",
+    "height": "281mm",
+    "diameter": "83mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:27:07.000Z",
+    "updatedAt": "2026-10-31T04:43:57.000Z"
+  },
+  {
+    "_id": "6a70674b24f8d7d94730bf34",
+    "name": "28mm / 1000ml Sanitol",
+    "sku": "SS017",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "108",
+      "Family": "108"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421839/sheth-pet/products/1785751371486-28mm_-_1000ml_Sanitol_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421840/sheth-pet/products/1785751371492-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care",
+      "Pharmaceutical"
+    ],
+    "volume": "1000ml",
+    "neckSize": "28mm",
+    "weight": "29gm & 32gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "1010ml",
+    "height": "238mm",
+    "diameter": "85mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:32:51.000Z",
+    "updatedAt": "2026-10-31T04:44:00.000Z"
+  },
+  {
+    "_id": "6a70681e24f8d7d94730bf35",
+    "name": "28mm / 1000ml Sopy",
+    "sku": "SS019",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "105",
+      "Family": "105"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421845/sheth-pet/products/1785751582306-28mm_-_1000ml_Sopy_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421846/sheth-pet/products/1785751582338-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "1000ml",
+    "neckSize": "28mm",
+    "weight": "48gm ",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "1060ml",
+    "height": "220mm",
+    "diameter": "118 X 76mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:36:22.000Z",
+    "updatedAt": "2026-10-31T04:44:07.000Z"
+  },
+  {
+    "_id": "6a70693524f8d7d94730bf36",
+    "name": "28mm / 1000ml Square New",
+    "sku": "SS022",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Op White"
+    ],
+    "moqPackaging": {
+      "Clear": "135",
+      "Family": "135"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421850/sheth-pet/products/1785751861435-28mm_-_1000ml_Square_New_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421851/sheth-pet/products/1785751861461-Family.jpg",
+      "Op White": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421854/sheth-pet/products/1785751861461-28mm_-_1000ml_Square_New_Op_White.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "1000ml",
+    "neckSize": "28mm",
+    "weight": "48gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "1030ml",
+    "height": "251mm",
+    "diameter": "72mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:41:01.000Z",
+    "updatedAt": "2026-10-31T04:44:16.000Z"
+  },
+  {
+    "_id": "6a706a4924f8d7d94730bf37",
+    "name": "28mm / 1000ml Square Old",
+    "sku": "SS020",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "120",
+      "Family": "120"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421861/sheth-pet/products/1785752137752-28mm_-_1000ml_Square_Old_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421862/sheth-pet/products/1785752137763-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "1000ml",
+    "neckSize": "28mm",
+    "weight": "48gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "1030ml",
+    "height": "254mm",
+    "diameter": "75mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:45:37.000Z",
+    "updatedAt": "2026-10-31T04:44:22.000Z"
+  },
+  {
+    "_id": "6a706b8024f8d7d94730bf38",
+    "name": "28mm / 1000ml Tulip 60gm",
+    "sku": "ASB068",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Opaque White"
+    ],
+    "moqPackaging": {
+      "Clear": "123",
+      "Family": "123",
+      "Opaque White": "123"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421866/sheth-pet/products/1785752448360-28mm_-_1000ml_Tulip_Clear_60gm.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421867/sheth-pet/products/1785752448367-Family.jpg",
+      "Opaque White": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421872/sheth-pet/products/1785752448368-28mm_-_1000ml_Tulip_Opaque_White_60gm.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "1000ml",
+    "neckSize": "28mm",
+    "weight": "60gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "1030ml",
+    "height": "218mm",
+    "diameter": "86mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:50:48.000Z",
+    "updatedAt": "2026-10-31T04:44:33.000Z"
+  },
+  {
+    "_id": "6a706c3f24f8d7d94730bf39",
+    "name": "28mm / 250ml Oil",
+    "sku": "SS050",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "clear": "480",
+      "Family": "480"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421877/sheth-pet/products/1785752680876-28mm-_250ml_Oil_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421878/sheth-pet/products/1785752680917-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care",
+      "Industrial"
+    ],
+    "volume": "250ml",
+    "neckSize": "28mm",
+    "weight": "18gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "275ml",
+    "height": "166mm",
+    "diameter": "58mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:53:59.000Z",
+    "updatedAt": "2026-10-31T04:44:38.000Z"
+  },
+  {
+    "_id": "6a706d8224f8d7d94730bf3a",
+    "name": "30mm / 50ml Tablet",
+    "sku": "ASB077",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Amber"
+    ],
+    "moqPackaging": {
+      "Clear": "1458",
+      "Family": "1458"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421882/sheth-pet/products/1785752962085-30mm_-_50ml_Tablet_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421882/sheth-pet/products/1785752962151-Family.jpg",
+      "Amber": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421885/sheth-pet/products/1785752962160-30mm_-_50ml_Tablet_Amber.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical"
+    ],
+    "volume": "30ml",
+    "neckSize": "30mm",
+    "weight": "10gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "110ml",
+    "height": "83mm",
+    "diameter": "46mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T04:59:22.000Z",
+    "updatedAt": "2026-10-31T04:44:45.000Z"
+  },
+  {
+    "_id": "6a706f2424f8d7d94730bf3b",
+    "name": "38mm / 100ml Tablet",
+    "sku": "ASB080",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Amber",
+      "Opaque White"
+    ],
+    "moqPackaging": {
+      "Clear": "896",
+      "Family": "896"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421886/sheth-pet/products/1785753380867-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421886/sheth-pet/products/1785753380867-Family.jpg",
+      "Amber": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421888/sheth-pet/products/1785753380867-38mm_-_100ml_Tablet_Amber.jpg",
+      "Opaque White": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421891/sheth-pet/products/1785753424204-38mm_-_100ml_Tablet_Opaque_White.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care",
+      "Pharmaceutical"
+    ],
+    "volume": "100ml",
+    "neckSize": "38mm",
+    "weight": "18gm",
+    "neckProfile": [
+      "SP 400",
+      "3Start"
+    ],
+    "ofc": "115ml",
+    "height": "93mm",
+    "diameter": "45mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T05:06:20.000Z",
+    "updatedAt": "2026-10-31T04:44:52.000Z"
+  },
+  {
+    "_id": "6a7070dd24f8d7d94730bf3c",
+    "name": "38mm / 150ml Tablet",
+    "sku": "ASB082",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Amber"
+    ],
+    "moqPackaging": {
+      "Clear": "637",
+      "Family": "637"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421892/sheth-pet/products/1785753821276-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421892/sheth-pet/products/1785753821276-Family.jpg",
+      "Amber": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421894/sheth-pet/products/1785753821276-38mm_-_150ml_Tablet_Amber.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Pharmaceutical"
+    ],
+    "volume": "150ml",
+    "neckSize": "38mm",
+    "weight": "22gm ",
+    "neckProfile": [
+      "SP 400",
+      "3Start"
+    ],
+    "ofc": "150ml",
+    "height": "102mm",
+    "diameter": "50mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T05:13:41.000Z",
+    "updatedAt": "2026-10-31T04:44:55.000Z"
+  },
+  {
+    "_id": "6a7071d124f8d7d94730bf3d",
+    "name": "38mm / 150ml Tablet Oval ",
+    "sku": "ASB082 - 1",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Opaque White"
+    ],
+    "moqPackaging": {
+      "Clear": "686",
+      "Family": "686",
+      "Opaque White": "686"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421895/sheth-pet/products/1785754065405-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421895/sheth-pet/products/1785754065405-Family.jpg",
+      "Opaque White": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421898/sheth-pet/products/1785754065407-38mm_-_150ml_Tablet_Oval_Opaque_White.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical"
+    ],
+    "volume": "150ml",
+    "neckSize": "38mm",
+    "weight": "18gm",
+    "neckProfile": [
+      "3Start"
+    ],
+    "ofc": "150ml",
+    "height": "93mm",
+    "diameter": "93mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T05:17:45.000Z",
+    "updatedAt": "2026-10-31T04:44:59.000Z"
+  },
+  {
+    "_id": "6a7074c424f8d7d94730bf3e",
+    "name": "53mm / 50ml Cream",
+    "sku": "SS173",
+    "category": "Jars",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Amber"
+    ],
+    "moqPackaging": {
+      "Clear": "1232",
+      "Family": "1232"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421901/sheth-pet/products/1785754820578-53mm_-_50ml_Cream_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421902/sheth-pet/products/1785754820589-Family.jpg",
+      "Amber": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421903/sheth-pet/products/1785754820589-53mm_-_50ml_Cream_Amber.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Pharmaceutical",
+      "Personal Care"
+    ],
+    "volume": "50ml",
+    "neckSize": "53mm",
+    "weight": "11gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "70ml",
+    "height": "37mm",
+    "diameter": "56mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T05:30:20.000Z",
+    "updatedAt": "2026-10-31T04:45:04.000Z"
+  },
+  {
+    "_id": "6a7075c424f8d7d94730bf3f",
+    "name": "53mm / 100ml Cream",
+    "sku": "SS143",
+    "category": "Jars",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Star Blue"
+    ],
+    "moqPackaging": {
+      "Clear": "858",
+      "Family": "858",
+      "Star Blue": "858"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421906/sheth-pet/products/1785755076805-53mm_-_100ml_Cream_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421908/sheth-pet/products/1785755076813-Family.jpg",
+      "Star Blue": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421910/sheth-pet/products/1785755076813-53mm_-_100ml_Cream_Star_Blue.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical",
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "100ml",
+    "neckSize": "53mm",
+    "weight": "15gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "115ml",
+    "height": "53mm",
+    "diameter": "59mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T05:34:36.000Z",
+    "updatedAt": "2026-10-31T04:45:11.000Z"
+  },
+  {
+    "_id": "6a70766d24f8d7d94730bf40",
+    "name": "53mm / 125ml Matka",
+    "sku": "SS145",
+    "category": "Jars",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "495",
+      "Family": "495"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421912/sheth-pet/products/1785755245958-53mm_-_125ml_Matka_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421913/sheth-pet/products/1785755245966-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "125ml",
+    "neckSize": "53mm",
+    "weight": "18gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "130ml",
+    "height": "53mm",
+    "diameter": "75mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T05:37:25.000Z",
+    "updatedAt": "2026-10-31T04:45:13.000Z"
+  },
+  {
+    "_id": "6a70774324f8d7d94730bf41",
+    "name": "53mm / 300ml Square",
+    "sku": "SS162",
+    "category": "Jars",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "440",
+      "Family": "440"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421916/sheth-pet/products/1785755458101-53mm_-_300ml_Square_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421918/sheth-pet/products/1785755459606-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "300ml",
+    "neckSize": "53mm",
+    "weight": "18gm ",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "325ml",
+    "height": "104mm",
+    "diameter": "64mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T05:40:59.000Z",
+    "updatedAt": "2026-10-31T04:45:18.000Z"
+  },
+  {
+    "_id": "6a7077cf24f8d7d94730bf42",
+    "name": "53mm / 300ml Tablet",
+    "sku": "SS163",
+    "category": "Jars",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "490",
+      "Family": "490"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421923/sheth-pet/products/1785755599125-53mm_-_300ml_Tablet_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421924/sheth-pet/products/1785755599143-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "300ml",
+    "neckSize": "53mm",
+    "weight": "30gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "310ml",
+    "height": "111mm",
+    "diameter": "64mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T05:43:19.000Z",
+    "updatedAt": "2026-10-31T04:45:24.000Z"
+  },
+  {
+    "_id": "6a70786924f8d7d94730bf43",
+    "name": "53mm / 370ml Tablet",
+    "sku": "SS167",
+    "category": "Jars",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Amber",
+      "Opaque White"
+    ],
+    "moqPackaging": {
+      "Clear": "364",
+      "Family": "364",
+      "Amber": "364"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421924/sheth-pet/products/1785755753164-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421924/sheth-pet/products/1785755753164-Family.jpg",
+      "Amber": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421928/sheth-pet/products/1785755753164-53mm_-_370ml_Tablet_Amber.jpg",
+      "Opaque White": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421933/sheth-pet/products/1785755804477-53mm_-_370ml_Tablet_Opaque_White.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "370ml",
+    "neckSize": "53mm",
+    "weight": "30gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "370ml",
+    "height": "127mm",
+    "diameter": "65mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T05:45:53.000Z",
+    "updatedAt": "2026-10-31T04:45:34.000Z"
+  },
+  {
+    "_id": "6a70795024f8d7d94730bf44",
+    "name": "53mm / 450ml Malt",
+    "sku": "SS169",
+    "category": "Jars",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "390",
+      "Family": "390"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421938/sheth-pet/products/1785755984383-53mm_-_450ml_Malt_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421939/sheth-pet/products/1785755984457-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "450ml",
+    "neckSize": "53mm",
+    "weight": "30gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "430ml",
+    "height": "145mm",
+    "diameter": "66mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T05:49:44.000Z",
+    "updatedAt": "2026-10-31T04:45:39.000Z"
+  },
+  {
+    "_id": "6a707a0d24f8d7d94730bf45",
+    "name": "53mm / 450ml Square",
+    "sku": "SS172",
+    "category": "Jars",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "308",
+      "Family": "308"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421946/sheth-pet/products/1785756172998-53mm_-_450ml_Square_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421946/sheth-pet/products/1785756173053-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "450ml",
+    "neckSize": "53mm",
+    "weight": "30gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "450ml",
+    "height": "140mm",
+    "diameter": "65mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T05:52:53.000Z",
+    "updatedAt": "2026-10-31T04:45:47.000Z"
+  },
+  {
+    "_id": "6a707b1e24f8d7d94730bf46",
+    "name": "69mm / 100ml Cream",
+    "sku": "SS178",
+    "category": "Jars",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "560",
+      "Family": "560"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421952/sheth-pet/products/1785756446097-69mm_-_100ml_Cream_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421953/sheth-pet/products/1785756446126-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "100ml",
+    "neckSize": "",
+    "weight": "15gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "130ml",
+    "height": "39mm",
+    "diameter": "76mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T05:57:26.000Z",
+    "updatedAt": "2026-10-31T04:45:53.000Z"
+  },
+  {
+    "_id": "6a707c0424f8d7d94730bf47",
+    "name": "73mm / 500ml Matka",
+    "sku": "SS186",
+    "category": "Jars",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "140",
+      "Family": "140"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421957/sheth-pet/products/1785756676351-73mm_-_500ml_Matka_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421957/sheth-pet/products/1785756676362-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "500ml",
+    "neckSize": "73mm",
+    "weight": "36gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "600ml",
+    "height": "90mm",
+    "diameter": "115mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T06:01:16.000Z",
+    "updatedAt": "2026-10-31T04:45:58.000Z"
+  },
+  {
+    "_id": "6a707c9724f8d7d94730bf48",
+    "name": "73mm / 750ml Square",
+    "sku": "J009",
+    "category": "Jars",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "216",
+      "Family": "216"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421962/sheth-pet/products/1785756823066-73mm_-_750ml_Square_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421963/sheth-pet/products/1785756823076-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care",
+      "Food & Beverages"
+    ],
+    "volume": "750ml",
+    "neckSize": "73mm",
+    "weight": "36gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "765ml",
+    "height": "147mm",
+    "diameter": "81mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T06:03:43.000Z",
+    "updatedAt": "2026-10-31T04:46:03.000Z"
+  },
+  {
+    "_id": "6a707d6624f8d7d94730bf49",
+    "name": "96mm / 1000ml Nova",
+    "sku": "J016",
+    "category": "Jars",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "128",
+      "Family": "128"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421967/sheth-pet/products/1785757030797-96mm_-_1000ml_Nova_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421968/sheth-pet/products/1785757030823-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care",
+      "Food & Beverages"
+    ],
+    "volume": "1000ml",
+    "neckSize": "96mm",
+    "weight": "58gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "1010ml",
+    "height": "145mm",
+    "diameter": "104mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T06:07:10.000Z",
+    "updatedAt": "2026-10-31T04:46:08.000Z"
+  },
+  {
+    "_id": "6a707ed124f8d7d94730bf4a",
+    "name": "25mm / 200ml Square",
+    "sku": "ASB030 - 1",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "748",
+      "Family": "748"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421972/sheth-pet/products/1785757393387-25mm_-_200ml_Square_Clear_SUK_Same_24mm.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421973/sheth-pet/products/1785757393423-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "200ml",
+    "neckSize": "24mm",
+    "weight": "22gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "215ml",
+    "height": "146mm",
+    "diameter": "44mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T06:13:13.000Z",
+    "updatedAt": "2026-10-31T04:46:13.000Z"
+  },
+  {
+    "_id": "6a7086a80090217c57639ac5",
+    "name": "28mm / 500ml Sahyadri",
+    "sku": "SS090",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Noni Green"
+    ],
+    "moqPackaging": {
+      "Clear": "162",
+      "Family": "162",
+      "Noni Green": "162"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421974/sheth-pet/products/1785759400453-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421974/sheth-pet/products/1785759400454-Family.jpg",
+      "Noni Green": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421979/sheth-pet/products/1785759427066-28mm_-_500ml_Sahyadri_Noni_Green.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "500ml",
+    "neckSize": "28mm",
+    "weight": "44gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "535ml",
+    "height": "277mm",
+    "diameter": "71mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-03T06:46:40.000Z",
+    "updatedAt": "2026-10-31T04:46:20.000Z"
+  },
+  {
+    "_id": "6a717e478ce5d2ecbdca4ec9",
+    "name": "25mm / 135ml Gripe",
+    "sku": "ASB043",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "504",
+      "Family": "504"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421984/sheth-pet/products/1785822791575-25mm_-_135ml_Gripe_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421985/sheth-pet/products/1785822791685-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "135ml",
+    "neckSize": "28mm",
+    "weight": "18gm",
+    "neckProfile": [
+      "PCO",
+      "ROPP",
+      "Alaska"
+    ],
+    "ofc": "135ml",
+    "height": "143mm",
+    "diameter": "59 X 29mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-04T00:23:11.000Z",
+    "updatedAt": "2026-10-31T04:46:25.000Z"
+  },
+  {
+    "_id": "6a717ef38ce5d2ecbdca4eca",
+    "name": "25mm / 200ml Tulip",
+    "sku": "ASB031 - 1",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family",
+      "Amber"
+    ],
+    "moqPackaging": {
+      "Clear": "648",
+      "Family": "648",
+      "Amber": "648"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421985/sheth-pet/products/1785822962252-Family.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421986/sheth-pet/products/1785822962344-Family.jpg",
+      "Amber": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421989/sheth-pet/products/1785822962349-25mm_-_200ml_Tulip_Amber.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "volume": "200ml",
+    "neckSize": "25mm",
+    "weight": "22gm",
+    "neckProfile": [
+      "ROPP"
+    ],
+    "ofc": "210ml",
+    "height": "148mm",
+    "diameter": "48mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-04T00:26:03.000Z",
+    "updatedAt": "2026-10-31T04:46:30.000Z"
+  },
+  {
+    "_id": "6a717fa08ce5d2ecbdca4ecb",
+    "name": "46mm / 5000ml Oil",
+    "sku": "J002",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Clear",
+      "Family"
+    ],
+    "moqPackaging": {
+      "Clear": "22 ",
+      "Family": "22"
+    },
+    "capType": "",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421993/sheth-pet/products/1785823136736-46mm_-_5000ml_Oil_Clear.jpg",
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421994/sheth-pet/products/1785823136760-Family.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Home Care",
+      "Personal Care"
+    ],
+    "volume": "5000ml",
+    "neckSize": "46mm",
+    "weight": "110gm",
+    "neckProfile": [
+      "SP 400"
+    ],
+    "ofc": "5065ml",
+    "height": "327mm",
+    "diameter": "159mm",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-04T00:28:56.000Z",
+    "updatedAt": "2026-10-31T04:46:34.000Z"
+  },
+  {
+    "_id": "6a744df5e4416a57b729d5d0",
+    "name": "Bottle09",
+    "sku": "SKU-0001",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Sky Blue",
+      "Green"
+    ],
+    "moqPackaging": {
+      "Sky Blue": "2000",
+      "Green": "1000"
+    },
+    "capType": "Cap",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Sky Blue": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421995/sheth-pet/products/1786007029275.jpg",
+      "Green": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793421995/sheth-pet/products/1786007029279.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical",
+      "Industrial"
+    ],
+    "volume": "",
+    "neckSize": "",
+    "weight": "",
+    "neckProfile": [],
+    "ofc": "",
+    "height": "",
+    "diameter": "",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {
+      "Sky Blue": {
+        "volume": "200ml",
+        "neckSize": "60mm",
+        "neckProfile": [
+          "SP410",
+          "3Start"
+        ],
+        "ofc": "OFC",
+        "weight": "20g",
+        "height": "12",
+        "diameter": "22"
+      },
+      "Green": {
+        "neckSize": "53mm",
+        "volume": "400ml",
+        "neckProfile": [
+          "CTC",
+          "SP410",
+          "3Start"
+        ],
+        "ofc": "OFCS",
+        "weight": "30g",
+        "height": "20",
+        "diameter": "15"
+      }
+    },
+    "createdAt": "2026-08-06T03:33:49.000Z",
+    "updatedAt": "2026-10-31T04:46:36.000Z"
+  },
+  {
+    "_id": "6a75cd05048edf65f0fb5bdd",
+    "name": "Bottle",
+    "sku": "SKU-0002",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Family",
+      "Clear"
+    ],
+    "moqPackaging": {
+      "Family": "2000",
+      "Clear": "3000"
+    },
+    "capType": "Cap",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Family": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793372994/sheth-pet/products/1785736248849-19mm_-_20ml_Tulip_Clear.jpg",
+      "Clear": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793372994/sheth-pet/products/1785736248849-19mm_-_20ml_Tulip_Clear.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical",
+      "Industrial"
+    ],
+    "volume": "",
+    "neckSize": "",
+    "weight": "",
+    "neckProfile": [],
+    "ofc": "",
+    "height": "",
+    "diameter": "",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {
+      "Family": {
+        "volume": "200ml",
+        "neckProfile": [
+          "SP410",
+          "3Start"
+        ],
+        "neckSize": "69mm",
+        "ofc": "OFCS",
+        "weight": "30g",
+        "height": "23",
+        "diameter": "22"
+      },
+      "Clear": {
+        "volume": "300ml",
+        "neckSize": "25mm",
+        "neckProfile": [
+          "PCO",
+          "CTC"
+        ],
+        "ofc": "OFCDD",
+        "weight": "30g",
+        "height": "12",
+        "diameter": "3"
+      }
+    },
+    "createdAt": "2026-08-07T06:48:13.000Z",
+    "updatedAt": "2026-10-31T04:46:36.000Z"
+  },
+  {
+    "_id": "6a8325dcd72176c585ce8276",
+    "name": "Bottle-001",
+    "sku": "SKU-0003",
+    "category": "Bottles",
+    "productType": "",
+    "color": [
+      "Yellow"
+    ],
+    "moqPackaging": {
+      "Yellow": "2000"
+    },
+    "capType": "family",
+    "usage": "",
+    "keySpecs": "",
+    "image": null,
+    "images": {
+      "Yellow": "https://res.cloudinary.com/p2ccdclk/image/upload/v1793372994/sheth-pet/products/1785736248849-19mm_-_20ml_Tulip_Clear.jpg"
+    },
+    "showInPopup": false,
+    "marketSegments": [
+      "Pharmaceutical",
+      "Industrial",
+      "Food & Beverages"
+    ],
+    "volume": "",
+    "neckSize": "",
+    "weight": "",
+    "neckProfile": [],
+    "ofc": "",
+    "height": "",
+    "diameter": "",
+    "pilfer": "",
+    "length": "",
+    "colorSpecs": {},
+    "createdAt": "2026-08-17T09:46:44.000Z",
+    "updatedAt": "2026-10-31T04:46:36.000Z"
+  }
+]

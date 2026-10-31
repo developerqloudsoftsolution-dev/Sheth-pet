@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "6a7c5b61eb0bec90a2e43e85",
+    "title": "Advanced data bulb",
+    "slug": "advanced-data-bulb",
+    "description": "sdbjkasbd sljdbskjd sdlshldsdnllsn bdsk",
+    "content": "Yes. You can reset the password directly from this wp_users table, so you don't need the email-reset system.\r\n\r\nFrom your screenshot, I can see several WordPress users. Don't delete any of them.\r\n\r\nThe safest approach is to reset the password for the account you recognize. For example, the first account is:\r\n\r\nUsername: meerawork16@gmail.com\r\nEmail: meerawork16@gmail.com\r\nID: 1\r\n\r\nIf that is your account, we can reset its password.\r\n\r\nReset it from phpMyAdmin\r\nOn the row for meerawork16@gmail.com, click Edit.\r\nFind the field named user_pass.\r\nDelete the existing value.\r\nEnter a new temporary password, for example:\r\nArk@2026NewPass!\r\nIn the Function dropdown next to user_pass, select MD5.\r\nScroll down and click Go/Save.\r\n\r\nThen go to:\r\n\r\nhttps://arkindustrie.com/wp-admin\r\n\r\nLogin with:\r\n\r\nUsername: meerawork16@gmail.com\r\nPassword: the new password you entered.\r\n\r\nOne important thing\r\n\r\nYour database shows 7 WordPress accounts, including:\r\n\r\nbot\r\nadminbackup\r\nadministrator_6c55871b6a\r\nuwlayowx\r\nacadtapi",
+    "image": "1786534753637.png",
+    "author": "Admin",
+    "tags": [
+      "Substain"
+    ],
+    "isPublished": true,
+    "createdAt": "2026-08-12T11:39:14.072Z",
+    "updatedAt": "2026-08-12T11:42:53.805Z",
+    "__v": 0
+  }
+]

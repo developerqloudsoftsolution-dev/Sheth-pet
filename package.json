@@ -1,7 +1,7 @@
 {
   "name": "sheth-pet-app",
   "version": "1.0.0",
-  "description": "Sheth PET & Polymers MERN Stack Application",
+  "description": "Sheth PET & Polymers Application (MySQL)",
   "main": "backend/index.js",
   "type": "module",
   "workspaces": [
@@ -16,14 +16,14 @@
     "start": "node backend/index.js",
     "server": "npm start --prefix backend",
     "client": "npm run dev --prefix client",
-    "dev": "node backend/index.js"
+    "dev": "node backend/index.js",
+    "db:to-mysql": "node backend/convert-mongo-to-mysql.js"
   },
   "keywords": [
-    "mern",
     "react",
     "vite",
     "express",
-    "mongodb"
+    "mysql"
   ],
   "author": "",
   "license": "ISC"
