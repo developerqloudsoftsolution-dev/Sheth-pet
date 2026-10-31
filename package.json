@@ -5,10 +5,10 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "postinstall": "npm --prefix client install && npm --prefix client run build && npm --prefix backend install",
+    "postinstall": "node build.js",
     "install-all": "npm install --prefix client && npm install --prefix backend",
-    "build:client": "npm --prefix client install && npm --prefix client run build && npm --prefix backend install",
-    "build": "npm --prefix client install && npm --prefix client run build && npm --prefix backend install",
+    "build:client": "node build.js",
+    "build": "node build.js",
     "start": "node server.js",
     "server": "npm start --prefix backend",
     "client": "npm run dev --prefix client",

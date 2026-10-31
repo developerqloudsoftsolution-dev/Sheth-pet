@@ -5,16 +5,15 @@ backend/node_modules/
 
 # Production builds
 client/dist/
-backend/dist/
 dist/
 build/
 
 # Environment files (NEVER commit secrets to GitHub)
 .env
 .env.*
-!.env.example
 backend/.env
 backend/.env.*
+!.env.example
 !backend/.env.example
 client/.env
 client/.env.*
