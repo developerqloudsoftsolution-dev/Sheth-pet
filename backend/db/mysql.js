@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 
 dotenv.config();
 
-const pool = mysql.createPool({
+const poolConfig = {
   host: process.env.DB_HOST || "localhost",
   user: process.env.DB_USER || "root",
   password: process.env.DB_PASSWORD !== undefined ? process.env.DB_PASSWORD : "",
@@ -13,7 +13,13 @@ const pool = mysql.createPool({
   waitForConnections: true,
   connectionLimit: 10,
   queueLimit: 0,
-});
+};
+
+if (process.env.DB_SSL === "true" || process.env.DB_SSL === "1") {
+  poolConfig.ssl = { rejectUnauthorized: false };
+}
+
+const pool = mysql.createPool(poolConfig);
 
 export const connectDB = async () => {
   try {
@@ -37,7 +43,7 @@ export const connectDB = async () => {
     }
   } catch (error) {
     console.error("❌ MySQL Connection Error:", error.message);
-    process.exit(1);
+    console.warn("⚠️ Continuing server startup. Database features will be unavailable until MySQL is configured.");
   }
 };
 
