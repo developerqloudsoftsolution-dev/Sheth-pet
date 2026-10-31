@@ -2,21 +2,17 @@
   "name": "sheth-pet-app",
   "version": "1.0.0",
   "description": "Sheth PET & Polymers Application (MySQL)",
-  "main": "backend/index.js",
+  "main": "server.js",
   "type": "module",
-  "workspaces": [
-    "backend",
-    "client"
-  ],
   "scripts": {
-    "postinstall": "npm --prefix client install && npm --prefix backend install",
+    "postinstall": "npm --prefix client install && npm --prefix client run build && npm --prefix backend install",
     "install-all": "npm install --prefix client && npm install --prefix backend",
     "build:client": "npm --prefix client install && npm --prefix client run build && npm --prefix backend install",
     "build": "npm --prefix client install && npm --prefix client run build && npm --prefix backend install",
-    "start": "node backend/index.js",
+    "start": "node server.js",
     "server": "npm start --prefix backend",
     "client": "npm run dev --prefix client",
-    "dev": "node backend/index.js",
+    "dev": "node server.js",
     "db:to-mysql": "node backend/convert-mongo-to-mysql.js"
   },
   "keywords": [
